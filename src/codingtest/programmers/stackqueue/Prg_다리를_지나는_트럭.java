@@ -1,10 +1,9 @@
 package codingtest.programmers.stackqueue;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import static java.lang.System.*;
 
-import static java.lang.System.out;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class Prg_다리를_지나는_트럭 {
 

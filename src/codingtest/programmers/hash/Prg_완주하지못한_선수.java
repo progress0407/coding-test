@@ -1,11 +1,11 @@
 package codingtest.programmers.hash;
 
-import test.grammer.enumtest.EnumTest;
+import static java.lang.System.*;
 
-import java.lang.reflect.MalformedParameterizedTypeException;
-import java.util.*;
-
-import static java.lang.System.out;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class Prg_완주하지못한_선수 {
 
