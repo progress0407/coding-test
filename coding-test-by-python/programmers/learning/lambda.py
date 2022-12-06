@@ -4,8 +4,6 @@ from functools import reduce
 def learn_map():
     new_list = list(map(lambda x: x ** 2, range(5)))
     print(new_list)
-    print(list(range(5)))
-    print([range(5)])
 
 
 def learn_reduce():
@@ -25,6 +23,6 @@ def learn_filter():
 
 
 if __name__ == '__main__':
-    # learn_map()
+    learn_map()
     # learn_reduce()
-    learn_filter()
+    # learn_filter()
