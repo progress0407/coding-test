@@ -1,4 +1,4 @@
-package codingtest.codility;
+package gradle.cotingtest.console.codility;
 
 import java.util.Arrays;
 import java.util.Comparator;
